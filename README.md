@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-npm install github:umm-projects/parse_dotnet35
+yarn add "umm-projects/parse_dotnet35#^1.0.0"
 ```
 
 ## Usage
