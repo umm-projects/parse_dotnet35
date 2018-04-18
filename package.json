@@ -1,6 +1,6 @@
 {
   "name": "@umm/parse_dotnet35",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Parse plugins on .NET 3.5",
   "homepage": "https://github.com/umm-projects/parse_dotnet35",
   "bugs": {
